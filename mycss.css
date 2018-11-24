@@ -1,0 +1,76 @@
+
+.table > thead > tr > th {
+    border-bottom: 0px solid #ddd;
+}
+
+.top-banner {
+    height: 50px;
+}
+
+.top-data {
+    height: 100px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.nav-tabs-horizontal img {
+    height: 30px;
+}
+
+.tab-content img {
+    width: 320px;
+    height: auto;
+}
+
+.nav-tabs-horizontal {
+    border-bottom: 0px;
+}
+
+li.active {
+    border-bottom: 4px solid #ff4d4f;
+}
+
+a {
+    border: none !important;
+}
+
+.list-group-item {
+    border: 0;
+}
+
+.top-numbers {
+    color: #389e0d;
+    font-size: large;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    color: #ff4d4f;
+}
+
+.badge {
+    font-size: 14px;
+}
+
+.order-item {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    white-space:nowrap;
+    width:70%;
+    height:27px;
+    display:inline-block;
+
+}
+
+.order-value {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    white-space:nowrap;
+    width:20%;
+    height:27px;
+    display:inline-block;
+
+}
